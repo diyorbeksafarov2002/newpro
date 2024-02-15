@@ -1,0 +1,1 @@
+web: gunicorn "ALHADAYA_PRO.wsgi"
